@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:22:24	17/17	---MCZ	200	added ('OK')	text/html	date:Thu,%2001%20Jun%202023%2020:22:12%20GMT	https://mirrors.cpabuild.com/preview.php?it=3872889&key=a539c	C:/My%20Web%20Sites/youtube/mirrors.cpabuild.com/previewf153.html	(from )
+21:22:25	26/26	---M--	200	added ('OK')	text/plain	etag:%221a-5a2f7428ad967%22	https://mirrors.cpabuild.com/robots.txt		(from )
